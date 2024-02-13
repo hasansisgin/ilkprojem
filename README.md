@@ -8,4 +8,4 @@ HTML - CSS
 
 <h2>Ekran Görüntüsü</h2>
 
-![] (ekran.gif)
+![](ekran.gif)
