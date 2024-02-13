@@ -1,11 +1,11 @@
 <h1>My First Experience</h1>
 
-My first serious experience on my way to becoming a Front End Developer.
+My first serious experience on my way to become a Front End Developer.
 
-<h2>Kullanılan Teknolojiler</h2>
+<h2>Used Technologies</h2>
 
 HTML - CSS
 
-<h2>Ekran Görüntüsü</h2>
+<h2>Preview of the Project</h2>
 
 ![](ekran.gif)
